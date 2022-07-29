@@ -1,1 +1,1 @@
-# coding-test
+# 2018 KAKAO BLIND RECRUMENT
