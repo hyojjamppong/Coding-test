@@ -1,3 +1,7 @@
+# dp[i][j] : (알고력 i, 코딩력 j) 상태에 도달하는 데 필요한 최단 시간
+# (초기 알고력, 초기 코딩력) 상태에서 시작해 (목표 알고력, 목표 코딩력) 상태에 도달하는 최단 시간을 구하는 문제
+
+
 def solution(alp, cop, problems):
     max_alp_req, max_cop_req = [0, 0]
     
